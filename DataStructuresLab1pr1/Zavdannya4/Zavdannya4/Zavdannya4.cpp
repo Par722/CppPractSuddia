@@ -12,7 +12,5 @@ int main() {
         i++;
     }
 
-    cout << "The smallest natural divisor other than 1: " << i << endl;
-
-    return 0;
+    cout << "The smallest natural divisor other than 1: " << i;
 }
